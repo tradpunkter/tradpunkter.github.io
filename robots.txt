@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tradpunkter.github.io/sitemap.xml

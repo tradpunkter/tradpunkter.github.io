@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Workflow</title>
+    <link href="https://tradpunkter.github.io/feed.xml" rel="self" />
+    <link href="https://tradpunkter.github.io" />
+    <updated>2026-03-12T20:36:48+01:00</updated>
+    <author>
+        <name>tradpunkter</name>
+    </author>
+    <id>https://tradpunkter.github.io</id>
+
+    <entry>
+        <title>Workflow</title>
+        <author>
+            <name>tradpunkter</name>
+        </author>
+        <link href="https://tradpunkter.github.io/workflow-2.html"/>
+        <id>https://tradpunkter.github.io/workflow-2.html</id>
+        <media:content url="https://tradpunkter.github.io/media/posts/2/Workflow-2.png" medium="image" />
+
+        <updated>2026-03-12T20:05:45+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://tradpunkter.github.io/media/posts/2/Workflow-2.png" alt="" />
+                    Workflow is an application for organizing work using documents, drawers, statuses, and relationships. ​The system can be used to manage&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tradpunkter.github.io/media/posts/2/Workflow-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Workflow is an application for organizing work using documents, drawers, statuses, and relationships. ​The system can be used to manage many different kinds of work, such as reminders, projects, activities, cases, orders, or other document-based processes.</p>
+<p>​Workflow is flexible. The structure of the system is defined by configuration, so different users can adapt it to different ways of working.</p>
+<p>In Workflow, a workflow is a structured way of moving work from one stage to another.</p>
+<p>​Work is stored in documents. Each document belongs to a drawer. The drawer defines how that type of document behaves, for example:</p>
+<p>​• which statuses it uses</p>
+<p>• which dates it tracks</p>
+<p>• which actions are available</p>
+<p>• whether it uses product rows</p>
+<p>• how it is printed</p>
+<p>​This allows the system to support both simple and more advanced ways of organizing work.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
