@@ -11,11 +11,11 @@
     },
     "items": [
         {
-            "id": "https://tradpunkter.github.io/workflow-2.html",
-            "url": "https://tradpunkter.github.io/workflow-2.html",
+            "id": "https://tradpunkter.github.io/news/workflow-2/",
+            "url": "https://tradpunkter.github.io/news/workflow-2/",
             "title": "Workflow",
-            "summary": "Workflow is an application for organizing work using documents, drawers, statuses, and relationships. ​The system can be used to manage&hellip;",
-            "content_html": "<p>Workflow is an application for organizing work using documents, drawers, statuses, and relationships. ​The system can be used to manage many different kinds of work, such as reminders, projects, activities, cases, orders, or other document-based processes.</p>\n<p>​Workflow is flexible. The structure of the system is defined by configuration, so different users can adapt it to different ways of working.</p>\n<p>In Workflow, a workflow is a structured way of moving work from one stage to another.</p>\n<p>​Work is stored in documents. Each document belongs to a drawer. The drawer defines how that type of document behaves, for example:</p>\n<p>​• which statuses it uses</p>\n<p>• which dates it tracks</p>\n<p>• which actions are available</p>\n<p>• whether it uses product rows</p>\n<p>• how it is printed</p>\n<p>​This allows the system to support both simple and more advanced ways of organizing work.</p>",
+            "summary": "tradpunkter Workflow is a signed and notarized macOS workflow application with built-in documentation and downloadable releases. Workflow is an application&hellip;",
+            "content_html": "<p>tradpunkter Workflow is a signed and notarized macOS workflow application with built-in documentation and downloadable releases.</p>\n<p>Workflow is an application for organizing work using documents, drawers, statuses, and relationships. ​The system can be used to manage many different kinds of work, such as reminders, projects, activities, cases, orders, or other document-based processes.</p>\n<p>​Workflow is flexible. The structure of the system is defined by configuration, so different users can adapt it to different ways of working.</p>\n<p>In Workflow, a workflow is a structured way of moving work from one stage to another.</p>\n<p>​Work is stored in documents. Each document belongs to a drawer. The drawer defines how that type of document behaves, for example:</p>\n<p>​• which statuses it uses</p>\n<p>• which dates it tracks</p>\n<p>• which actions are available</p>\n<p>• whether it uses product rows</p>\n<p>• how it is printed</p>\n<p>​This allows the system to support both simple and more advanced ways of organizing work.</p>",
             "image": "https://tradpunkter.github.io/media/posts/2/Workflow-2.png",
             "author": {
                 "name": "tradpunkter"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2026-03-12T20:05:45+01:00",
-            "date_modified": "2026-03-12T20:36:48+01:00"
+            "date_modified": "2026-03-17T08:21:49+01:00"
         }
     ]
 }
